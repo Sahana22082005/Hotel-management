@@ -1,0 +1,25 @@
+.hotel-list {
+    text-align: center;
+    padding: 20px;
+    background-image: url("C:\Users\sahan\Downloads\hotel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  
+  .hotel {
+    /* border: 1px solid #ddd; */
+    margin-bottom: 15px;
+    padding: 10px;
+    /* background-color: #fff; */
+    /* background-color: #29d0c2; */
+  }
+  
+  .hotel h2 {
+    margin: 0;
+  }
+  
+  .hotel h4 {
+    margin: 5px 0;
+  }

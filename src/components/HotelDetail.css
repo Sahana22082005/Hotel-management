@@ -1,0 +1,25 @@
+.hotel-detail {
+    padding: 20px;
+    text-align: center;
+   
+   
+    /* background-color: #29d0c2; */
+    background-image: url("C:\Users\sahan\Downloads\hotel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  .hotel-detail-container h2{
+    font-size:30px ;
+    color:white;
+  }
+  .reviews-section {
+    /* display: inline-block; */
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    /* text-align: center; */
+    margin-right: 400px;
+    margin-left: 400px;
+  }
